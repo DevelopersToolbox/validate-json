@@ -35,7 +35,7 @@
 
 This is a very simple tool for validating a JSON string. It utilises [jq](https://stedolan.github.io/jq/) for this purpose and wraps the output into something more consumable within other scripts.
 
-> Also see: [json-lint](https://github.com/TravisToolbox/json-lint) for out travis plugin that performs a similiar function.
+> Also see: [json-lint](https://github.com/CICDToolbox/json-lint) for out travis plugin that performs a similiar function.
 
 ## Usage
 
